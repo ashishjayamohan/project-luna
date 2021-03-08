@@ -1,5 +1,5 @@
 layout: page
-title: "sample pagee"
+title: "sample page"
 permalink: /sample-page/
 
 # This is a header.
